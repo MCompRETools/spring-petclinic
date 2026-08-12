@@ -6,7 +6,7 @@ name: Java CI with Maven - No Cache
 on:
   push:
     branches:
-      - exp-01-no-cache
+      - exp-00-baseexp
   pull_request:
     branches:
       - exp-00-baseexp
